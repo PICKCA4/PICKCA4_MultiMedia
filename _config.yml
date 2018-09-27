@@ -2,4 +2,4 @@ theme: jekyll-theme-cayman
 title: Welcome to my Multimedia Homepage!
 description: Hello world
 github:
-  UI-Design: http://example.com
+  is_project_page: false
