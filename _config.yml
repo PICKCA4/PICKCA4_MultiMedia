@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: Welcome to my Multimedia Homepage!
 description: Hello world
+github:
+  is_project_page: false
